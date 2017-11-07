@@ -1,3 +1,6 @@
+See live demo at:
+https://picture-loader-service.firebaseapp.com
+
 # Angular4FirebaseStorage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0.
